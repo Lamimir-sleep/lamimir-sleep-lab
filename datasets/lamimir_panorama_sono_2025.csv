@@ -1,0 +1,51 @@
+idade,horas_sono,qualidade_percebida,problema_principal,colchao_adequado
+58,8,4,nenhum,sim
+25,5,2,dor lombar,sim
+19,7,3,dor lombar,sim
+65,7,2,ansiedade,sim
+35,7,2,dor lombar,sim
+33,5,5,nenhum,sim
+32,8,5,nenhum,sim
+26,5,3,insônia,sim
+65,8,5,nenhum,não
+24,5,4,ansiedade,sim
+61,7,5,apneia,sim
+65,7,4,insônia,não
+52,6,3,insônia,não
+23,5,2,ansiedade,sim
+55,5,2,ansiedade,sim
+45,6,5,dor lombar,não
+20,7,4,insônia,sim
+19,5,1,dor lombar,não
+23,6,1,nenhum,não
+31,5,1,insônia,sim
+32,8,2,insônia,sim
+50,7,2,apneia,sim
+56,8,4,insônia,não
+19,7,5,nenhum,não
+53,6,1,dor lombar,não
+30,7,4,dor lombar,não
+63,7,4,apneia,não
+59,6,5,nenhum,sim
+62,7,4,dor lombar,sim
+52,5,5,ansiedade,sim
+44,6,3,nenhum,não
+32,6,5,nenhum,não
+46,6,1,apneia,sim
+55,8,1,dor lombar,sim
+35,8,5,nenhum,sim
+69,7,3,dor lombar,sim
+18,6,3,ansiedade,não
+66,7,1,apneia,sim
+69,5,3,ansiedade,não
+28,6,4,apneia,sim
+62,5,2,nenhum,não
+45,7,4,apneia,não
+39,8,1,insônia,sim
+35,7,3,dor lombar,sim
+27,5,5,dor lombar,não
+31,6,2,insônia,sim
+66,7,5,ansiedade,sim
+39,6,1,insônia,sim
+24,8,3,nenhum,sim
+23,8,5,nenhum,sim
